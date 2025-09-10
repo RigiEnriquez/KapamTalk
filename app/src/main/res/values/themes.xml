@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KapamTalk" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/design_default_color_primary</item>
+        <item name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+        <item name="colorAccent">@color/design_default_color_surface</item>
+
+        <!-- Text selection handle colors -->
+        <item name="android:textSelectHandle">@drawable/custom_text_select_handle</item>
+        <item name="android:textSelectHandleLeft">@drawable/custom_text_select_handle_left</item>
+        <item name="android:textSelectHandleRight">@drawable/custom_text_select_handle_right</item>
+        <item name="android:textCursorDrawable">@drawable/custom_cursor</item>
+    </style>
+
+    <style name="Theme.KapamTalk" parent="Base.Theme.KapamTalk"/>
+</resources>

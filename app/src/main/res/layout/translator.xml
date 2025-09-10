@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#194160"
+    tools:context=".Translator">
+
+    <!-- Background Decorative Shapes -->
+    <View
+        android:id="@+id/topCircle"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="-50dp"
+        android:layout_marginEnd="-25dp"
+        android:alpha="0.1"
+        android:background="@drawable/circle3"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintWidth_percent="0.4"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Added Rotated Rectangle -->
+    <View
+        android:id="@+id/centerRectangle"
+        android:layout_width="413dp"
+        android:layout_height="249dp"
+        android:alpha="0.05"
+        android:background="#FFFFFF"
+        android:rotation="-40"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/bottomCircle"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="-25dp"
+        android:layout_marginBottom="-25dp"
+        android:alpha="0.1"
+        android:background="@drawable/circle3"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintWidth_percent="0.3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <!-- App Header -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/headerLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/appLogo"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:src="@drawable/logokapam"
+            app:layout_constraintDimensionRatio="1:1"
+            app:layout_constraintWidth_percent="0.1"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:fontFamily="@font/aldrich"
+            android:text="KapamTalk"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/appLogo"
+            app:layout_constraintStart_toEndOf="@id/appLogo"
+            app:layout_constraintTop_toTopOf="@id/appLogo" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- Main Content ScrollView -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:clipToPadding="false"
+        android:fillViewport="true"
+        android:paddingHorizontal="16dp"
+        app:layout_constraintBottom_toTopOf="@id/bottomNavigationView"
+        app:layout_constraintTop_toBottomOf="@id/headerLayout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Source Language Section -->
+            <LinearLayout
+                android:id="@+id/sourceBubble"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/chatbubblebg"
+                android:elevation="4dp"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Select Source Language:"
+                    android:textColor="#FFFFFF"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/aldrich"
+                    android:textStyle="bold" />
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    app:cardBackgroundColor="#1E5177"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="0dp">
+
+                    <Spinner
+                        android:id="@+id/sourceLanguageSpinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="54dp"
+                        android:fontFamily="@font/antic"
+                        android:paddingHorizontal="16dp"
+                        android:popupBackground="#1E5177" />
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    app:cardBackgroundColor="#204060"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="0dp">
+
+                    <EditText
+                        android:id="@+id/sourceText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:fontFamily="@font/antic"
+                        android:hint="Type or use microphone:"
+                        android:inputType="textMultiLine"
+                        android:minHeight="120dp"
+                        android:padding="16dp"
+                        android:gravity="top|start"
+                        android:textColor="@color/white"
+                        android:textColorHint="@color/white"
+                        android:textSize="16sp" />
+                </androidx.cardview.widget.CardView>
+
+                <!-- Buttons Container (Horizontal Layout for Buttons) -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="12dp">
+
+                    <!-- Clear All Button (Left Side) -->
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:id="@+id/clearButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_clear"
+                        app:elevation="0dp"
+                        app:backgroundTint="#FFFFFF"
+                        app:fabSize="mini"
+                        app:tint="#194160" />
+
+                    <!-- Right-aligned container for speech and mic buttons -->
+                    <Space
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <!-- Speech Button -->
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:id="@+id/speechButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/speaker"
+                        app:elevation="0dp"
+                        app:backgroundTint="#FFFFFF"
+                        app:fabSize="mini"
+                        app:tint="#194160"
+                        android:layout_marginEnd="8dp" />
+
+                    <!-- Mic Button -->
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:id="@+id/micButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/rounded_button_background"
+                        android:src="@drawable/ic_mic_normal"
+                        app:elevation="0dp"
+                        android:backgroundTint="#FFFFFF"
+                        app:backgroundTint="#FFFFFF"
+                        app:fabSize="mini"
+                        app:tint="#194160" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <!-- Translate Icon Section with Text - UPDATED -->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="20dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_gravity="center">
+
+                    <ImageButton
+                        android:id="@+id/translateButton"
+                        android:layout_width="54dp"
+                        android:layout_height="54dp"
+                        android:padding="8dp"
+                        android:background="@drawable/circle2"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/swap_vertical" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Translate"
+                        android:textColor="#FFFFFF"
+                        android:fontFamily="@font/aldrich"
+                        android:textSize="14sp"
+                        android:layout_marginTop="4dp"
+                        android:layout_gravity="center_horizontal"/>
+                </LinearLayout>
+            </FrameLayout>
+
+            <!-- Target Language Section -->
+            <LinearLayout
+                android:id="@+id/targetBubble"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/chatbubblebg"
+                android:elevation="4dp"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Select Target Language:"
+                    android:textColor="#FFFFFF"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/aldrich"
+                    android:textStyle="bold" />
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    app:cardBackgroundColor="#1E5177"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="0dp">
+
+                    <Spinner
+                        android:id="@+id/targetLanguageSpinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="54dp"
+                        android:fontFamily="@font/antic"
+                        android:paddingHorizontal="16dp"
+                        android:popupBackground="#1E5177" />
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    app:cardBackgroundColor="#204060"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="0dp">
+
+                    <TextView
+                        android:id="@+id/translatedText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/antic"
+                        android:hint="Translation will appear here..."
+                        android:minHeight="120dp"
+                        android:padding="16dp"
+                        android:gravity="top|start"
+                        android:textColor="@color/white"
+                        android:textColorHint="@color/white"
+                        android:textSize="16sp" />
+                </androidx.cardview.widget.CardView>
+
+                <!-- Buttons Container (Horizontal Layout for Buttons) -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="12dp">
+
+                    <!-- Copy Button (Left Side) -->
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:id="@+id/copyButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/copyicon"
+                        app:elevation="0dp"
+                        app:backgroundTint="#FFFFFF"
+                        app:fabSize="mini"
+                        app:tint="#194160" />
+
+                    <!-- Right-aligned container for speaker button -->
+                    <Space
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <!-- Speaker Button -->
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:id="@+id/speakerButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/speaker"
+                        app:elevation="0dp"
+                        app:backgroundTint="#FFFFFF"
+                        app:fabSize="mini"
+                        app:tint="#194160" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- Bottom Navigation -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/nav_bar_color_default"
+        app:itemIconTint="@color/navigationicontint"
+        app:itemTextColor="@color/navigationicontint"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:menu="@menu/bottomnavigationbar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

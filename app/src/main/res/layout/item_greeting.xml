@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/layout/item_greeting.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/greeting_item"
+    android:orientation="horizontal"
+    android:padding="12dp"
+    android:layout_marginBottom="8dp">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/kapampanganText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/antic"
+            android:textColor="@color/nav_bar_color_default"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:text="Mayap a abak"/>
+
+        <TextView
+            android:id="@+id/englishText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:fontFamily="@font/antic"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            tools:text="Good morning" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/completionCheckmark"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/ic_check_circle"
+        android:visibility="gone" />
+</LinearLayout>

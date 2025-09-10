@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bggradient">
+
+    <!-- Top decorative rectangle -->
+    <ImageView
+        android:id="@+id/topRectangle"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintWidth_percent="0.75"
+        app:layout_constraintDimensionRatio="285:256"
+        android:rotation="-22"
+        android:src="@drawable/rectangle1"
+        app:layout_constraintStart_toEndOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintHorizontal_bias="0.9" />
+
+    <!-- Bottom decorative rectangle -->
+    <ImageView
+        android:id="@+id/bottomRectangle"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintWidth_percent="0.65"
+        app:layout_constraintDimensionRatio="285:256"
+        android:rotation="18"
+        android:src="@drawable/rectangle3"
+        android:alpha="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.15" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/titleText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/aldrich"
+                android:shadowColor="#000000"
+                android:shadowDx="2"
+                android:shadowDy="2"
+                android:shadowRadius="4"
+                android:text="KapamTalk"
+                android:textColor="#E1F1FA"
+                android:textSize="36sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/subtitleText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_chainStyle="packed"
+                android:layout_marginTop="48dp" />
+
+            <TextView
+                android:id="@+id/subtitleText"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/antic"
+                android:paddingHorizontal="16dp"
+                android:paddingVertical="12dp"
+                android:text="Learn and Translate easily into Kapampangan, Tagalog, and English"
+                android:textColor="#E1F1FA"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/subtitle_background"
+                app:layout_constraintBottom_toTopOf="@+id/character1Layout"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintWidth_percent="0.85"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/titleText"
+                android:layout_marginTop="16dp" />
+
+            <LinearLayout
+                android:id="@+id/character1Layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical"
+                app:layout_constraintBottom_toTopOf="@+id/charactersContainer"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/subtitleText"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="32dp">
+
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:background="@drawable/charbg"
+                    android:elevation="8dp"
+                    android:padding="4dp"
+                    android:src="@drawable/filipinocharacter"
+                    android:contentDescription="Filipino character" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:background="@drawable/speechbubble"
+                    android:fontFamily="@font/aldrich"
+                    android:paddingHorizontal="12dp"
+                    android:paddingVertical="8dp"
+                    android:shadowColor="#66000000"
+                    android:shadowDx="1"
+                    android:shadowDy="1"
+                    android:shadowRadius="2"
+                    android:text="Magandang Umaga"
+                    android:textAlignment="center"
+                    android:textColor="#E1F1FA"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <!-- Container for side-by-side characters that will adapt to different screen sizes -->
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/charactersContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toTopOf="@+id/continueButton"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/character1Layout"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="40dp">
+
+                <LinearLayout
+                    android:id="@+id/englishCharacterLayout"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toStartOf="@+id/kapampanganCharacterLayout"
+                    app:layout_constraintHorizontal_chainStyle="packed"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintWidth_percent="0.35"
+                    android:layout_marginEnd="16dp">
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:background="@drawable/charbg"
+                        android:elevation="8dp"
+                        android:padding="4dp"
+                        android:src="@drawable/engcharacter"
+                        android:contentDescription="English character" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:background="@drawable/speechbubble"
+                        android:fontFamily="@font/aldrich"
+                        android:paddingHorizontal="12dp"
+                        android:paddingVertical="8dp"
+                        android:shadowColor="#66000000"
+                        android:shadowDx="1"
+                        android:shadowDy="1"
+                        android:shadowRadius="2"
+                        android:text="Good Morning"
+                        android:textAlignment="center"
+                        android:textColor="#E1F1FA"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/kapampanganCharacterLayout"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/englishCharacterLayout"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintWidth_percent="0.35"
+                    android:layout_marginStart="16dp">
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:background="@drawable/charbg"
+                        android:elevation="8dp"
+                        android:padding="4dp"
+                        android:src="@drawable/kapampangancharacter"
+                        android:contentDescription="Kapampangan character" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:background="@drawable/speechbubble"
+                        android:fontFamily="@font/aldrich"
+                        android:paddingHorizontal="12dp"
+                        android:paddingVertical="8dp"
+                        android:shadowColor="#66000000"
+                        android:shadowDx="1"
+                        android:shadowDy="1"
+                        android:shadowRadius="2"
+                        android:text="Mayap a abak"
+                        android:textAlignment="center"
+                        android:textColor="#E1F1FA"
+                        android:textSize="16sp" />
+                </LinearLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <Button
+                android:id="@+id/continueButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonbg"
+                android:elevation="10dp"
+                android:fontFamily="@font/aldrich"
+                android:paddingVertical="14dp"
+                android:text="Continue"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintWidth_percent="0.65"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/charactersContainer"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="48dp" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="light_green_bg">#E8F5E9</color> <!-- Light green background -->
+    <color name="light_red_bg">#FFEBEE</color> <!-- Light red background -->
+     <color name="correct_green">#4CAF50</color>
+    <color name="incorrect_red">#F44336</color>
+    <color name="recording_color">#FFFF4444</color>
+    <color name="normal_color">#FF888888</color>
+    <color name="completed_lesson_bg">#FF4CAF50</color>
+    <color name="nav_bar_color_default">#3487C7</color>
+    <color name="nav_bar_color_offline">#D3D3D3</color>
+    <color name="nav_item_disabled">#888888</color>
+    <color name="nav_item_normal">#03365F</color>
+</resources>

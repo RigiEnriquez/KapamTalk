@@ -1,0 +1,1752 @@
+[
+  {
+    "word": "Afternoon",
+    "pronunciation": "af-ter-noon (æf-tər-'noon)",
+    "meaning": "gatpanapun"
+  },
+  {
+    "word": "Air",
+    "pronunciation": "air (ɛr)",
+    "meaning": "angin"
+  },
+  {
+    "word": "Airplane",
+    "pronunciation": "air-plane ('ɛr-pleɪn)",
+    "meaning": "Eroplanu"
+  },
+  {
+    "word": "Anger",
+    "pronunciation": "ang-ger ('æŋ-gər)",
+    "meaning": "muwa"
+  },
+  {
+    "word": "Angry",
+    "pronunciation": "ang-gree ('æŋ-gri)",
+    "meaning": "mimua"
+  },
+  {
+    "word": "Ant",
+    "pronunciation": "ant (ænt)",
+    "meaning": "panas"
+  },
+  {
+    "word": "Aromatic",
+    "pronunciation": "air-uh-mat-ik (ˌɛr-ə-'mæt-ɪk)",
+    "meaning": "Mabanglu"
+  },
+  {
+    "word": "Ask",
+    "pronunciation": "ask (æsk)",
+    "meaning": "Manyawad"
+  },
+  {
+    "word": "Aunt",
+    "pronunciation": "ant (ænt) or awnt (ɔnt)",
+    "meaning": "Dara"
+  },
+  {
+    "word": "Awesome",
+    "pronunciation": "aw-suhm ('ɔ-səm)",
+    "meaning": "Pakapangan yu"
+  },
+  {
+    "word": "Bad",
+    "pronunciation": "bad (bæd)",
+    "meaning": "Matsura"
+  },
+  {
+    "word": "Beautiful",
+    "pronunciation": "byoo-tuh-ful ('bju-tə-fəl)",
+    "meaning": "malagu"
+  },
+  {
+    "word": "Beauty",
+    "pronunciation": "byoo-tee ('bju-ti)",
+    "meaning": "lagu"
+  },
+  {
+    "word": "Bed",
+    "pronunciation": "bed (bɛd)",
+    "meaning": "Pitudturan"
+  },
+  {
+    "word": "Bee",
+    "pronunciation": "bee (bi)",
+    "meaning": "bubuyug"
+  },
+  {
+    "word": "Big",
+    "pronunciation": "big (bɪg)",
+    "meaning": "Madagul"
+  },
+  {
+    "word": "Bird",
+    "pronunciation": "burd (bɝd)",
+    "meaning": "ayup"
+  },
+  {
+    "word": "Birthday",
+    "pronunciation": "burth-day ('bɝθ-deɪ)",
+    "meaning": "Pangabait"
+  },
+  {
+    "word": "Blanket",
+    "pronunciation": "blang-kit ('blæŋ-kɪt)",
+    "meaning": "Ulas"
+  },
+  {
+    "word": "Bloody",
+    "pronunciation": "bluh-dee ('blʌ-di)",
+    "meaning": "Maraya"
+  },
+  {
+    "word": "Blurry",
+    "pronunciation": "blur-ree ('blɝ-i)",
+    "meaning": "Malabug"
+  },
+  {
+    "word": "Bread",
+    "pronunciation": "bred (brɛd)",
+    "meaning": "Tinape"
+  },
+  {
+    "word": "Breakfast",
+    "pronunciation": "brek-fust ('brɛk-fəst)",
+    "meaning": "Almusal"
+  },
+  {
+    "word": "Bridge",
+    "pronunciation": "brij (brɪdʒ)",
+    "meaning": "Tete"
+  },
+  {
+    "word": "Butterfly",
+    "pronunciation": "but-er-fly ('bʌ-tɚ-flaɪ)",
+    "meaning": "paruparu"
+  },
+  {
+    "word": "Buttocks",
+    "pronunciation": "but-uhks ('bʌ-təks)",
+    "meaning": "Buldit"
+  },
+  {
+    "word": "Buy",
+    "pronunciation": "bye (baɪ)",
+    "meaning": "Sali"
+  },
+  {
+    "word": "Capital",
+    "pronunciation": "kap-uh-tl ('kæ-pɪ-tl)",
+    "meaning": "Lakanbalen"
+  },
+  {
+    "word": "Carabao",
+    "pronunciation": "kar-uh-bow ('kær-ə-baʊ)",
+    "meaning": "damulag"
+  },
+  {
+    "word": "Cat",
+    "pronunciation": "kat (kæt)",
+    "meaning": "Pusa"
+  },
+  {
+    "word": "Catfish",
+    "pronunciation": "kat-fish ('kæt-fɪʃ)",
+    "meaning": "bulig"
+  },
+  {
+    "word": "Cemetery",
+    "pronunciation": "sem-uh-ter-ee ('sɛ-mə-tɛ-ri)",
+    "meaning": "campo santo"
+  },
+  {
+    "word": "Chair",
+    "pronunciation": "chair (tʃɛr)",
+    "meaning": "Luklukan"
+  },
+  {
+    "word": "Chapel",
+    "pronunciation": "chap-uhl ('tʃæ-pəl)",
+    "meaning": "bisitas"
+  },
+  {
+    "word": "Cheese",
+    "pronunciation": "cheez (tʃiz)",
+    "meaning": "Kesu"
+  },
+  {
+    "word": "Chest",
+    "pronunciation": "chest (tʃɛst)",
+    "meaning": "Salu"
+  },
+  {
+    "word": "Chick",
+    "pronunciation": "chik (tʃɪk)",
+    "meaning": "Sisi"
+  },
+  {
+    "word": "Chicken",
+    "pronunciation": "chik-en ('tʃɪ-kɪn)",
+    "meaning": "manuk"
+  },
+  {
+    "word": "Child",
+    "pronunciation": "chyld (tʃaɪld)",
+    "meaning": "anak"
+  },
+  {
+    "word": "Church",
+    "pronunciation": "chur-ch (tʃɝtʃ)",
+    "meaning": "pisamban"
+  },
+  {
+    "word": "Clearly",
+    "pronunciation": "kleer-lee ('klɪr-li)",
+    "meaning": "Masala"
+  },
+  {
+    "word": "Clothes",
+    "pronunciation": "klowz (kloʊðz)",
+    "meaning": "Malan"
+  },
+  {
+    "word": "Cloud",
+    "pronunciation": "klowd (klaʊd)",
+    "meaning": "ulap"
+  },
+  {
+    "word": "Coffee",
+    "pronunciation": "kaw-fee ('kɔ-fi)",
+    "meaning": "Kape"
+  },
+  {
+    "word": "Cold",
+    "pronunciation": "kold (koʊld)",
+    "meaning": "Marimla"
+  },
+  {
+    "word": "Companion",
+    "pronunciation": "kum-pan-yun (kəm-'pæ-njən)",
+    "meaning": "Abe"
+  },
+  {
+    "word": "Congratulations",
+    "pronunciation": "kun-grat-chew-lay-shuns (kən-ˌɡræ-tʃə-'leɪ-ʃənz)",
+    "meaning": "Pagmananwan daka"
+  },
+  {
+    "word": "Cousin",
+    "pronunciation": "kuh-zin ('kʌ-zɪn)",
+    "meaning": "Pisan"
+  },
+  {
+    "word": "Cow",
+    "pronunciation": "kow (kaʊ)",
+    "meaning": "baka"
+  },
+  {
+    "word": "Crab",
+    "pronunciation": "krab (kræb)",
+    "meaning": "ema"
+  },
+  {
+    "word": "Crocodile",
+    "pronunciation": "krok-uh-dyl ('krɑ-kə-daɪl)",
+    "meaning": "dapu"
+  },
+  {
+    "word": "Cry",
+    "pronunciation": "krye (kraɪ)",
+    "meaning": "Gaga"
+  },
+  {
+    "word": "Curse",
+    "pronunciation": "kurs (kɝs)",
+    "meaning": "Panagkas"
+  },
+  {
+    "word": "Dark",
+    "pronunciation": "dahrk (dɑrk)",
+    "meaning": "Madalumdum"
+  },
+  {
+    "word": "Dawn",
+    "pronunciation": "dawn (dɔn)",
+    "meaning": "ganing aldo"
+  },
+  {
+    "word": "Day",
+    "pronunciation": "day (deɪ)",
+    "meaning": "Aldo"
+  },
+  {
+    "word": "Delicious",
+    "pronunciation": "duh-li-shus (də-'lɪ-ʃəs)",
+    "meaning": "Manyaman"
+  },
+  {
+    "word": "Dirty",
+    "pronunciation": "dur-tee ('dɝ-ti)",
+    "meaning": "Madinat"
+  },
+  {
+    "word": "Dog",
+    "pronunciation": "dawg (dɔg)",
+    "meaning": "Asu"
+  },
+  {
+    "word": "Door",
+    "pronunciation": "dor (dɔr)",
+    "meaning": "Pasbul"
+  },
+  {
+    "word": "Dragonfly",
+    "pronunciation": "drag-un-fly ('dræ-gən-flaɪ)",
+    "meaning": "tulang"
+  },
+  {
+    "word": "Dry",
+    "pronunciation": "drahy (draɪ)",
+    "meaning": "Malangi"
+  },
+  {
+    "word": "Duck",
+    "pronunciation": "duhk (dʌk)",
+    "meaning": "bibi"
+  },
+  {
+    "word": "Dusk",
+    "pronunciation": "duhsk (dʌsk)",
+    "meaning": "sisilim"
+  },
+  {
+    "word": "Early",
+    "pronunciation": "ur-lee ('ɝ-li)",
+    "meaning": "Maranun"
+  },
+  {
+    "word": "Ears",
+    "pronunciation": "eers (ɪrz)",
+    "meaning": "Balugbug"
+  },
+  {
+    "word": "Earth",
+    "pronunciation": "urth (ɝθ)",
+    "meaning": "yatu"
+  },
+  {
+    "word": "Earthquake",
+    "pronunciation": "urth-kwake ('ɝθ-kweɪk)",
+    "meaning": "Ayun"
+  },
+  {
+    "word": "Eastward",
+    "pronunciation": "eest-werd ('ist-wɝd)",
+    "meaning": "Aslagan"
+  },
+  {
+    "word": "Eat",
+    "pronunciation": "eet (it)",
+    "meaning": "Mangan"
+  },
+  {
+    "word": "Eating",
+    "pronunciation": "eet-ing ('i-tɪŋ)",
+    "meaning": "Mamangan"
+  },
+  {
+    "word": "Egg",
+    "pronunciation": "eg (ɛg)",
+    "meaning": "Ebun"
+  },
+  {
+    "word": "Eight",
+    "pronunciation": "ayt (eɪt)",
+    "meaning": "Walu"
+  },
+  {
+    "word": "Elbow",
+    "pronunciation": "el-boh ('ɛl-boʊ)",
+    "meaning": "Siku"
+  },
+  {
+    "word": "Enough",
+    "pronunciation": "ee-nuhf (ɪ-'nʌf)",
+    "meaning": "Ustu na"
+  },
+  {
+    "word": "Evening",
+    "pronunciation": "eev-ning ('i-vnɪŋ)",
+    "meaning": "Bengi"
+  },
+  {
+    "word": "Every",
+    "pronunciation": "ev-ree ('ɛv-ri)",
+    "meaning": "Sabla"
+  },
+  {
+    "word": "Eyes",
+    "pronunciation": "ize (aɪz)",
+    "meaning": "Mata"
+  },
+  {
+    "word": "Face",
+    "pronunciation": "fayss (feɪs)",
+    "meaning": "Lupa"
+  },
+  {
+    "word": "Far",
+    "pronunciation": "fahr (fɑr)",
+    "meaning": "Malawut"
+  },
+  {
+    "word": "Faster",
+    "pronunciation": "fas-ter ('fæ-stɚ)",
+    "meaning": "Lagwa"
+  },
+  {
+    "word": "Father",
+    "pronunciation": "fah-thur ('fɑ-ðɚ)",
+    "meaning": "Ibpa"
+  },
+  {
+    "word": "Feet",
+    "pronunciation": "feet (fit)",
+    "meaning": "Bitis"
+  },
+  {
+    "word": "Few",
+    "pronunciation": "fyoo (fju)",
+    "meaning": "Ditak"
+  },
+  {
+    "word": "Filching",
+    "pronunciation": "fil-ching (ˈfɪl.tʃɪŋ)",
+    "meaning": "Mangoryet"
+  },
+  {
+    "word": "Finger",
+    "pronunciation": "fing-ger ('fɪŋ-gɚ)",
+    "meaning": "Taliri"
+  },
+  {
+    "word": "Fire",
+    "pronunciation": "fye-yer (faɪɚ)",
+    "meaning": "api"
+  },
+  {
+    "word": "Firefly",
+    "pronunciation": "fire-fly ('faɪɚ-flaɪ)",
+    "meaning": "Alitaptap"
+  },
+  {
+    "word": "Fish",
+    "pronunciation": "fish (fɪʃ)",
+    "meaning": "asan"
+  },
+  {
+    "word": "Five",
+    "pronunciation": "fyev (faɪv)",
+    "meaning": "Lima"
+  },
+  {
+    "word": "Flood",
+    "pronunciation": "fluhd (flʌd)",
+    "meaning": "albug"
+  },
+  {
+    "word": "Flower",
+    "pronunciation": "flou-er ('flaʊ-ɚ)",
+    "meaning": "Sampaga"
+  },
+  {
+    "word": "Fly",
+    "pronunciation": "flaɪ (flaɪ)",
+    "meaning": "Sulapo"
+  },
+  {
+    "word": "Food",
+    "pronunciation": "foood (fuːd)",
+    "meaning": "Pamangan"
+  },
+  {
+    "word": "Forefinger",
+    "pronunciation": "for-fing-ger (ˈfɔrˌfɪŋ.ɡɚ)",
+    "meaning": "Panuldu"
+  },
+  {
+    "word": "Forehead",
+    "pronunciation": "for-ed or for-head ('fɔr-ɪd or 'fɔr-hɛd)",
+    "meaning": "Kanuan"
+  },
+  {
+    "word": "Four",
+    "pronunciation": "for (fɔr)",
+    "meaning": "Apat"
+  },
+  {
+    "word": "Free",
+    "pronunciation": "free (fri)",
+    "meaning": "Libri"
+  },
+  {
+    "word": "Frequent",
+    "pronunciation": "free-kwent ('fri-kwənt)",
+    "meaning": "Maralas"
+  },
+  {
+    "word": "Fruit",
+    "pronunciation": "froot (fruːt)",
+    "meaning": "prutas"
+  },
+  {
+    "word": "Full",
+    "pronunciation": "ful (fʊl)",
+    "meaning": "Mitmu"
+  },
+  {
+    "word": "Get",
+    "pronunciation": "get (ɡɛt)",
+    "meaning": "Kumwa"
+  },
+  {
+    "word": "Give",
+    "pronunciation": "giv (ɡɪv)",
+    "meaning": "Dinan"
+  },
+  {
+    "word": "Gloomy",
+    "pronunciation": "gloo-mee ('ɡlu-mi)",
+    "meaning": "Madalumdum"
+  },
+  {
+    "word": "Go",
+    "pronunciation": "goh (ɡoʊ)",
+    "meaning": "Munta"
+  },
+  {
+    "word": "Godparent",
+    "pronunciation": "god-pair-uhnt ('ɡɑd-pɛr-ənt)",
+    "meaning": "tegawan"
+  },
+  {
+    "word": "Good",
+    "pronunciation": "gud (ɡʊd)",
+    "meaning": "Mayap"
+  },
+  {
+    "word": "Goodbye",
+    "pronunciation": "gud-bye (ɡʊd-'baɪ)",
+    "meaning": "Maulaga"
+  },
+  {
+    "word": "Goodnight",
+    "pronunciation": "gud-night (ɡʊd-'naɪt)",
+    "meaning": "Mayap a bengi"
+  },
+  {
+    "word": "Grandchildren",
+    "pronunciation": "grand-chil-drun ('ɡrænd-ˌtʃɪl-drən)",
+    "meaning": "apu"
+  },
+  {
+    "word": "Grandfather",
+    "pronunciation": "grand-fah-thur ('ɡrænd-ˌfɑ-ðɚ)",
+    "meaning": "Ingkong"
+  },
+  {
+    "word": "Grandmother",
+    "pronunciation": "grand-muh-thur ('ɡrænd-ˌmʌ-ðɚ)",
+    "meaning": "Apu"
+  },
+  {
+    "word": "Great",
+    "pronunciation": "grayt (ɡreɪt)",
+    "meaning": "Nyaman na ken"
+  },
+  {
+    "word": "Ground",
+    "pronunciation": "grownd (ɡraʊnd)",
+    "meaning": "Gabun"
+  },
+  {
+    "word": "Gulp",
+    "pronunciation": "gulp (ɡʌlp)",
+    "meaning": "Aldukan"
+  },
+  {
+    "word": "Hands",
+    "pronunciation": "handz (hændz)",
+    "meaning": "Gamat"
+  },
+  {
+    "word": "Handsome",
+    "pronunciation": "han-sum ('hæn-səm)",
+    "meaning": "Masanting"
+  },
+  {
+    "word": "Happy",
+    "pronunciation": "hap-ee ('hæ-pi)",
+    "meaning": "Masaya"
+  },
+  {
+    "word": "Head",
+    "pronunciation": "hed (hɛd)",
+    "meaning": "Buntuk"
+  },
+  {
+    "word": "Heavens",
+    "pronunciation": "hev-uhnz ('hɛ-vənz)",
+    "meaning": "Banwa"
+  },
+  {
+    "word": "Hello",
+    "pronunciation": "heh-loh (hɛ-'loʊ)",
+    "meaning": "Komusta"
+  },
+  {
+    "word": "Help",
+    "pronunciation": "help (hɛlp)",
+    "meaning": "Sakoru"
+  },
+  {
+    "word": "Here",
+    "pronunciation": "heer (hɪr)",
+    "meaning": "Keni"
+  },
+  {
+    "word": "High",
+    "pronunciation": "hye (haɪ)",
+    "meaning": "Matas"
+  },
+  {
+    "word": "Hips",
+    "pronunciation": "hips (hɪps)",
+    "meaning": "Papaluan"
+  },
+  {
+    "word": "Holiday",
+    "pronunciation": "hol-ih-day ('hɑ-lɪ-deɪ)",
+    "meaning": "Bakasyun"
+  },
+  {
+    "word": "Hospital",
+    "pronunciation": "haas-puh-tl ('hɑ-spɪ-tl)",
+    "meaning": "uspital"
+  },
+  {
+    "word": "Hot",
+    "pronunciation": "haht (hɑt)",
+    "meaning": "Mapali"
+  },
+  {
+    "word": "Hour",
+    "pronunciation": "ow-er ('aʊ-ɚ)",
+    "meaning": "Oras"
+  },
+  {
+    "word": "House",
+    "pronunciation": "hows (haʊs)",
+    "meaning": "Bale"
+  },
+  {
+    "word": "How",
+    "pronunciation": "how (haʊ)",
+    "meaning": "Makananu"
+  },
+  {
+    "word": "Humid",
+    "pronunciation": "hyoo-mid ('hju-mɪd)",
+    "meaning": "Malisangan"
+  },
+  {
+    "word": "I",
+    "pronunciation": "eye (aɪ)",
+    "meaning": "acu"
+  },
+  {
+    "word": "Inward",
+    "pronunciation": "in-werd ('ɪn-wɝd)",
+    "meaning": "Papalub"
+  },
+  {
+    "word": "Joy",
+    "pronunciation": "joy (dʒɔɪ)",
+    "meaning": "Tula"
+  },
+  {
+    "word": "Jump",
+    "pronunciation": "jump (dʒʌmp)",
+    "meaning": "Lukdang"
+  },
+  {
+    "word": "Kind",
+    "pronunciation": "kynd (kaɪnd)",
+    "meaning": "Maganaka"
+  },
+  {
+    "word": "Knee",
+    "pronunciation": "nee (ni)",
+    "meaning": "Tud"
+  },
+  {
+    "word": "Later",
+    "pronunciation": "lay-ter ('leɪ-tɚ)",
+    "meaning": "Pota"
+  },
+  {
+    "word": "Leave",
+    "pronunciation": "leev (liv)",
+    "meaning": "Lakwan"
+  },
+  {
+    "word": "Left",
+    "pronunciation": "left (lɛft)",
+    "meaning": "Kayli"
+  },
+  {
+    "word": "Leftovers",
+    "pronunciation": "left-oh-vurz ('lɛft-oʊ-vɚz)",
+    "meaning": "lataklatak"
+  },
+  {
+    "word": "Light",
+    "pronunciation": "lyt (laɪt)",
+    "meaning": "Sulu"
+  },
+  {
+    "word": "Lightning",
+    "pronunciation": "lyt-ning ('laɪt-nɪŋ)",
+    "meaning": "kildap"
+  },
+  {
+    "word": "Lizard",
+    "pronunciation": "liz-erd ('lɪ-zɚd)",
+    "meaning": "lupisak"
+  },
+  {
+    "word": "Long",
+    "pronunciation": "lawng (lɔŋ)",
+    "meaning": "Makaba"
+  },
+  {
+    "word": "Love",
+    "pronunciation": "luhv (lʌv)",
+    "meaning": "lugud"
+  },
+  {
+    "word": "Low",
+    "pronunciation": "loh (loʊ)",
+    "meaning": "Mababa"
+  },
+  {
+    "word": "Lying",
+    "pronunciation": "ly-ing ('laɪ-ɪŋ)",
+    "meaning": "Malaram"
+  },
+  {
+    "word": "Maybe",
+    "pronunciation": "may-bee ('meɪ-bi)",
+    "meaning": "Siguru"
+  },
+  {
+    "word": "Me",
+    "pronunciation": "mee (mi)",
+    "meaning": "Aku"
+  },
+  {
+    "word": "Medium",
+    "pronunciation": "mee-dee-um ('mi-di-əm)",
+    "meaning": "Katamtaman"
+  },
+  {
+    "word": "Midget",
+    "pronunciation": "mij-it ('mɪ-dʒɪt)",
+    "meaning": "Bansut"
+  },
+  {
+    "word": "Midnight",
+    "pronunciation": "mid-night ('mɪd-naɪt)",
+    "meaning": "kapitangang bengi"
+  },
+  {
+    "word": "Milk",
+    "pronunciation": "milk (mɪlk)",
+    "meaning": "Gatas"
+  },
+  {
+    "word": "Milkfish",
+    "pronunciation": "milk-fish ('mɪlk-fɪʃ)",
+    "meaning": "bangus"
+  },
+  {
+    "word": "Minute",
+    "pronunciation": "min-it ('mɪ-nɪt)",
+    "meaning": "Minutu"
+  },
+  {
+    "word": "Miss",
+    "pronunciation": "mis (mɪs)",
+    "meaning": "Malago"
+  },
+  {
+    "word": "Month",
+    "pronunciation": "munth (mʌnθ)",
+    "meaning": "Bulan"
+  },
+  {
+    "word": "Moon",
+    "pronunciation": "mooo-n (muːn)",
+    "meaning": "bulan"
+  },
+  {
+    "word": "Morning",
+    "pronunciation": "mor-ning ('mɔr-nɪŋ)",
+    "meaning": "abak"
+  },
+  {
+    "word": "Mosquito",
+    "pronunciation": "mus-kee-toh (mə-'ski-toʊ)",
+    "meaning": "amuk"
+  },
+  {
+    "word": "Mother",
+    "pronunciation": "muh-thur ('mʌ-ðɚ)",
+    "meaning": "Indu"
+  },
+  {
+    "word": "Mouse",
+    "pronunciation": "mows (maʊs)",
+    "meaning": "Dagis"
+  },
+  {
+    "word": "Mouth",
+    "pronunciation": "mowth (maʊθ)",
+    "meaning": "Asbuk"
+  },
+  {
+    "word": "Move",
+    "pronunciation": "moov (muːv)",
+    "meaning": "Galo"
+  },
+  {
+    "word": "Nape",
+    "pronunciation": "nayp (neɪp)",
+    "meaning": "Tundun"
+  },
+  {
+    "word": "Navel",
+    "pronunciation": "nay-vul ('neɪ-vəl)",
+    "meaning": "Pusad"
+  },
+  {
+    "word": "Near",
+    "pronunciation": "neer (nɪr)",
+    "meaning": "Malapit"
+  },
+  {
+    "word": "Neck",
+    "pronunciation": "nek (nɛk)",
+    "meaning": "Batal"
+  },
+  {
+    "word": "New",
+    "pronunciation": "nyoo (nu)",
+    "meaning": "Bayu"
+  },
+  {
+    "word": "Night",
+    "pronunciation": "nyt (naɪt)",
+    "meaning": "bengi"
+  },
+  {
+    "word": "Nine",
+    "pronunciation": "nyn (naɪn)",
+    "meaning": "Siyam"
+  },
+  {
+    "word": "No",
+    "pronunciation": "noh (noʊ)",
+    "meaning": "Ali"
+  },
+  {
+    "word": "Noon",
+    "pronunciation": "noon (nuːn)",
+    "meaning": "ugtun"
+  },
+  {
+    "word": "Northward",
+    "pronunciation": "north-werd ('nɔrθ-wɝd)",
+    "meaning": "Amianan"
+  },
+  {
+    "word": "Nose",
+    "pronunciation": "nohz (noʊz)",
+    "meaning": "Arung"
+  },
+  {
+    "word": "Now",
+    "pronunciation": "now (naʊ)",
+    "meaning": "Ngeni"
+  },
+  {
+    "word": "Old",
+    "pronunciation": "ohld (oʊld)",
+    "meaning": "Luma"
+  },
+  {
+    "word": "One",
+    "pronunciation": "wuhn (wʌn)",
+    "meaning": "Metung"
+  },
+  {
+    "word": "Outward",
+    "pronunciation": "owt-werd ('aʊt-wɝd)",
+    "meaning": "Papaluwal"
+  },
+  {
+    "word": "Overcast",
+    "pronunciation": "oh-ver-kast ('oʊ-vɚ-kæst)",
+    "meaning": "Malulam"
+  },
+  {
+    "word": "Overhead",
+    "pronunciation": "oh-ver-hed ('oʊ-vɚ-hɛd)",
+    "meaning": "Babo"
+  },
+  {
+    "word": "Parent",
+    "pronunciation": "pair-uhnt ('pɛr-ənt)",
+    "meaning": "Pengari"
+  },
+  {
+    "word": "Path",
+    "pronunciation": "path (pæθ)",
+    "meaning": "dalan"
+  },
+  {
+    "word": "Pet",
+    "pronunciation": "pet (pɛt)",
+    "meaning": "Sese"
+  },
+  {
+    "word": "Pig",
+    "pronunciation": "pig (pɪg)",
+    "meaning": "Babi"
+  },
+  {
+    "word": "Pillow",
+    "pronunciation": "pil-oh ('pɪ-loʊ)",
+    "meaning": "Ulnan"
+  },
+  {
+    "word": "Plant",
+    "pronunciation": "plant (plænt)",
+    "meaning": "Tanaman"
+  },
+  {
+    "word": "Please",
+    "pronunciation": "pleez (pliːz)",
+    "meaning": "Makiusap"
+  },
+  {
+    "word": "Plenty",
+    "pronunciation": "plen-tee ('plɛn-ti)",
+    "meaning": "Dakal"
+  },
+  {
+    "word": "Pretty",
+    "pronunciation": "prit-ee ('prɪ-ti)",
+    "meaning": "Matimyas"
+  },
+  {
+    "word": "Rain",
+    "pronunciation": "rayn (reɪn)",
+    "meaning": "uran"
+  },
+  {
+    "word": "Rare",
+    "pronunciation": "rair (rɛr)",
+    "meaning": "Malagad"
+  },
+  {
+    "word": "Really",
+    "pronunciation": "ree-lee ('rɪ-li)",
+    "meaning": "Tuto"
+  },
+  {
+    "word": "Rest",
+    "pronunciation": "rest (rɛst)",
+    "meaning": "Paynawa"
+  },
+  {
+    "word": "Right",
+    "pronunciation": "ryt (raɪt)",
+    "meaning": "Wanan"
+  },
+  {
+    "word": "Run",
+    "pronunciation": "ruhn (rʌn)",
+    "meaning": "Pulayi"
+  },
+  {
+    "word": "Sad",
+    "pronunciation": "sad (sæd)",
+    "meaning": "Malungkut"
+  },
+  {
+    "word": "School",
+    "pronunciation": "skool (skuːl)",
+    "meaning": "iskuvela"
+  },
+  {
+    "word": "Seven",
+    "pronunciation": "seh-vin ('sɛ-vən)",
+    "meaning": "Pitu"
+  },
+  {
+    "word": "Sharp",
+    "pronunciation": "shahrp (ʃɑrp)",
+    "meaning": "Mataram"
+  },
+  {
+    "word": "Shin",
+    "pronunciation": "shin (ʃɪn)",
+    "meaning": "Lulud"
+  },
+  {
+    "word": "Shit",
+    "pronunciation": "shit (ʃɪt)",
+    "meaning": "Naksyuta"
+  },
+  {
+    "word": "Short",
+    "pronunciation": "shor-t (ʃɔrt)",
+    "meaning": "Makuyad"
+  },
+  {
+    "word": "Shoulder",
+    "pronunciation": "shohl-der ('ʃoʊl-dɚ)",
+    "meaning": "Pago"
+  },
+  {
+    "word": "Shrimp",
+    "pronunciation": "shrimp (ʃrɪmp)",
+    "meaning": "paro"
+  },
+  {
+    "word": "Sibling",
+    "pronunciation": "sib-ling ('sɪb-lɪŋ)",
+    "meaning": "Kapatad"
+  },
+  {
+    "word": "Sister-in-law",
+    "pronunciation": "sis-ter-in-law ('sɪs-tɚ-ɪn-lɔ)",
+    "meaning": "bilas"
+  },
+  {
+    "word": "Six",
+    "pronunciation": "siks (sɪks)",
+    "meaning": "Anam"
+  },
+  {
+    "word": "Sky",
+    "pronunciation": "skai (skaɪ)",
+    "meaning": "banua"
+  },
+  {
+    "word": "Slice",
+    "pronunciation": "slais (slaɪs)",
+    "meaning": "Gili"
+  },
+  {
+    "word": "Slippery",
+    "pronunciation": "slip-er-ee ('slɪ-pə-ri)",
+    "meaning": "Matalusad"
+  },
+  {
+    "word": "Slurp",
+    "pronunciation": "slurp (slɝp)",
+    "meaning": "Ilupan"
+  },
+  {
+    "word": "Slutty",
+    "pronunciation": "slu-tee ('slʌ-ti)",
+    "meaning": "Malarit"
+  },
+  {
+    "word": "Small",
+    "pronunciation": "smawl (smɔl)",
+    "meaning": "Malati"
+  },
+  {
+    "word": "Snake",
+    "pronunciation": "snaik (sneɪk)",
+    "meaning": "ubingan"
+  },
+  {
+    "word": "Soil",
+    "pronunciation": "soyl (sɔɪl)",
+    "meaning": "gabun"
+  },
+  {
+    "word": "Sorry",
+    "pronunciation": "sor-ee ('sɔ-ri)",
+    "meaning": "Pasensya na"
+  },
+  {
+    "word": "Southward",
+    "pronunciation": "south-werd ('saʊθ-wɝd)",
+    "meaning": "Abagatan"
+  },
+  {
+    "word": "Spider",
+    "pronunciation": "spy-der ('spaɪ-dɚ)",
+    "meaning": "babagwa"
+  },
+  {
+    "word": "Stairs",
+    "pronunciation": "stairz (stɛrz)",
+    "meaning": "Eran"
+  },
+  {
+    "word": "Star",
+    "pronunciation": "stahr (stɑr)",
+    "meaning": "batuin"
+  },
+  {
+    "word": "Steal",
+    "pronunciation": "steel (stiːl)",
+    "meaning": "Manako"
+  },
+  {
+    "word": "Stinking",
+    "pronunciation": "sting-king ('stɪŋ-kɪŋ)",
+    "meaning": "Mabuluk"
+  },
+  {
+    "word": "Stop",
+    "pronunciation": "stahp (stɑp)",
+    "meaning": "Tuknang"
+  },
+  {
+    "word": "Straight",
+    "pronunciation": "strayt (streɪt)",
+    "meaning": "Tulid"
+  },
+  {
+    "word": "Sugar",
+    "pronunciation": "shoo-ger ('ʃʊ-gɚ)",
+    "meaning": "Mayumu"
+  },
+  {
+    "word": "Sultry",
+    "pronunciation": "suhl-tree ('sʌl-tri)",
+    "meaning": "Malisangan"
+  },
+  {
+    "word": "Sun",
+    "pronunciation": "suhn (sʌn)",
+    "meaning": "aldo"
+  },
+  {
+    "word": "Sweater",
+    "pronunciation": "swe-tur ('swɛ-tɚ)",
+    "meaning": "Sambra"
+  },
+  {
+    "word": "Tall",
+    "pronunciation": "tawl (tɔl)",
+    "meaning": "Matangkad"
+  },
+  {
+    "word": "Teeth",
+    "pronunciation": "teeth (tiːθ)",
+    "meaning": "Ipan"
+  },
+  {
+    "word": "Ten",
+    "pronunciation": "ten (tɛn)",
+    "meaning": "Apulu"
+  },
+  {
+    "word": "Termite",
+    "pronunciation": "ter-myt ('tɝ-maɪt)",
+    "meaning": "ane"
+  },
+  {
+    "word": "There",
+    "pronunciation": "thair (ðɛr)",
+    "meaning": "Keta"
+  },
+  {
+    "word": "They",
+    "pronunciation": "thay (ðeɪ)",
+    "meaning": "ikayu"
+  },
+  {
+    "word": "Three",
+    "pronunciation": "three (θriː)",
+    "meaning": "Atlu"
+  },
+  {
+    "word": "Thumb",
+    "pronunciation": "thuhm (θʌm)",
+    "meaning": "Tindaragul"
+  },
+  {
+    "word": "Thunder",
+    "pronunciation": "thun-der ('θʌn-dɚ)",
+    "meaning": "duldul"
+  },
+  {
+    "word": "Tongue",
+    "pronunciation": "tung (tʌŋ)",
+    "meaning": "Dila"
+  },
+  {
+    "word": "Tornado",
+    "pronunciation": "tor-nay-doh (tɔr-'neɪ-doʊ)",
+    "meaning": "ipuipu"
+  },
+  {
+    "word": "Town",
+    "pronunciation": "town (taʊn)",
+    "meaning": "Balen"
+  },
+  {
+    "word": "Tree",
+    "pronunciation": "tree (triː)",
+    "meaning": "Punu"
+  },
+  {
+    "word": "Two",
+    "pronunciation": "too (tuː)",
+    "meaning": "Adwa"
+  },
+  {
+    "word": "Typhoon",
+    "pronunciation": "ty-foon (taɪ-'fuːn)",
+    "meaning": "bagyu"
+  },
+  {
+    "word": "Ugly",
+    "pronunciation": "uhg-lee ('ʌg-li)",
+    "meaning": "Matsura"
+  },
+  {
+    "word": "Uncle",
+    "pronunciation": "uhng-kul ('ʌŋ-kəl)",
+    "meaning": "Bapa"
+  },
+  {
+    "word": "Underhead",
+    "pronunciation": "uhn-der-hed ('ʌn-dɚ-hɛd)",
+    "meaning": "Lalam"
+  },
+  {
+    "word": "Up",
+    "pronunciation": "uhp (ʌp)",
+    "meaning": "Babo"
+  },
+  {
+    "word": "Us",
+    "pronunciation": "uhs (ʌs)",
+    "meaning": "itamu"
+  },
+  {
+    "word": "Vegetable",
+    "pronunciation": "vej-tuh-bl ('vɛdʒ-tə-bəl)",
+    "meaning": "gule"
+  },
+  {
+    "word": "Vehicle",
+    "pronunciation": "vee-uh-kul ('vi-ɪ-kəl)",
+    "meaning": "Saken"
+  },
+  {
+    "word": "Wait",
+    "pronunciation": "wayt (weɪt)",
+    "meaning": "Saguli"
+  },
+  {
+    "word": "Wall",
+    "pronunciation": "wahl (wɔl)",
+    "meaning": "Pader"
+  },
+  {
+    "word": "Water",
+    "pronunciation": "wah-ter ('wɑ-tɚ)",
+    "meaning": "Danum"
+  },
+  {
+    "word": "We",
+    "pronunciation": "wee (wi)",
+    "meaning": "icami"
+  },
+  {
+    "word": "Welcome",
+    "pronunciation": "wel-kum ('wɛl-kəm)",
+    "meaning": "Malaus kayu pu"
+  },
+  {
+    "word": "Westward",
+    "pronunciation": "west-werd ('wɛst-wɝd)",
+    "meaning": "Albugan"
+  },
+  {
+    "word": "What",
+    "pronunciation": "wut (wʌt)",
+    "meaning": "Nanu"
+  },
+  {
+    "word": "When",
+    "pronunciation": "wen (wɛn)",
+    "meaning": "Kapilan"
+  },
+  {
+    "word": "Where",
+    "pronunciation": "wair (wɛr)",
+    "meaning": "Nokarin"
+  },
+  {
+    "word": "Why",
+    "pronunciation": "why (waɪ)",
+    "meaning": "Bakit"
+  },
+  {
+    "word": "Window",
+    "pronunciation": "win-doh ('wɪn-doʊ)",
+    "meaning": "Awang"
+  },
+  {
+    "word": "Year",
+    "pronunciation": "yeer (jɪr)",
+    "meaning": "Banwa"
+  },
+  {
+    "word": "Yes",
+    "pronunciation": "yes (jɛs)",
+    "meaning": "Wa"
+  },
+  {
+    "word": "You",
+    "pronunciation": "yoo (ju)",
+    "meaning": "ica"
+  },
+  {
+    "word": "Your",
+    "pronunciation": "yor (jɔr)",
+    "meaning": "Ing keka"
+  },
+  {
+    "word": "Accompany",
+    "pronunciation": "A-com-pa-ny (ə-kʌm-pə-ni)",
+    "meaning": "Tuki"
+  },
+  {
+    "word": "Again",
+    "pronunciation": "ə-gɛn (əˈɡɛn)",
+    "meaning": "pasibayu"
+  },
+  {
+    "word": "Alligator",
+    "pronunciation": "a-luh-gei-dr (ˈæ.lɪˌɡeɪ.dɚ)",
+    "meaning": "dapu"
+  },
+  {
+    "word": "Also",
+    "pronunciation": "awl-so (ˈɔlˌsoʊ)",
+    "meaning": "aku din"
+  },
+  {
+    "word": "Apology",
+    "pronunciation": "uh-pa-luh-jee (əˈpɑː.lə.dʒi)",
+    "meaning": "Kapanupayan"
+  },
+  {
+    "word": "Available",
+    "pronunciation": "uh-vei-luh-bl (əˈveɪ.lə.bəl)",
+    "meaning": "libri"
+  },
+  {
+    "word": "Banquet",
+    "pronunciation": "bang-kwit (ˈbæŋ.kwɪt)",
+    "meaning": "Tau"
+  },
+  {
+    "word": "Blooming",
+    "pronunciation": "bloo-ming (ˈbluː.mɪŋ)",
+    "meaning": "Malagu"
+  },
+  {
+    "word": "Boar",
+    "pronunciation": "bor (bɔr)",
+    "meaning": "babi"
+  },
+  {
+    "word": "Book",
+    "pronunciation": "buk (bʊk)",
+    "meaning": "libru"
+  },
+  {
+    "word": "Bought",
+    "pronunciation": "bawt (bɔt)",
+    "meaning": "seli"
+  },
+  {
+    "word": "Bright",
+    "pronunciation": "brahyt (braɪt)",
+    "meaning": "Aslag"
+  },
+  {
+    "word": "Brother-in-law",
+    "pronunciation": "bruh-thr-in-law (ˈbrʌ.ðɚ.ɪn.lɔ)",
+    "meaning": "bayo"
+  },
+  {
+    "word": "Butt",
+    "pronunciation": "buht (bʌt)",
+    "meaning": "buldit"
+  },
+  {
+    "word": "Bye",
+    "pronunciation": "bahy (baɪ)",
+    "meaning": "bay"
+  },
+  {
+    "word": "Celebrate",
+    "pronunciation": "se-luh-breyt (ˈsɛ.lə.breɪt)",
+    "meaning": "Tau"
+  },
+  {
+    "word": "Certainly",
+    "pronunciation": "sur-tn-lee (ˈsɝː.tən.li)",
+    "meaning": "Tune"
+  },
+  {
+    "word": "Company",
+    "pronunciation": "kuhm-puh-nee (ˈkʌm.pə.ni)",
+    "meaning": "abáyan"
+  },
+  {
+    "word": "Compassion",
+    "pronunciation": "kuhm-pa-shuhn (kəmˈpæʃ.ən)",
+    "meaning": "Upaya"
+  },
+  {
+    "word": "Consider",
+    "pronunciation": "kuhn-si-der (kənˈsɪ.dɚ)",
+    "meaning": "Ganakan"
+  },
+  {
+    "word": "Correct",
+    "pronunciation": "kuh-rekt (kəˈrɛkt)",
+    "meaning": "istu"
+  },
+  {
+    "word": "Courage",
+    "pronunciation": "kur-ij (ˈkɝː.ɪdʒ)",
+    "meaning": "Tagtag"
+  },
+  {
+    "word": "Cricket",
+    "pronunciation": "kri-kit (ˈkrɪ.kɪt)",
+    "meaning": "kamaru"
+  },
+  {
+    "word": "Cross",
+    "pronunciation": "kraws (krɔs)",
+    "meaning": "kurus"
+  },
+  {
+    "word": "Crush",
+    "pronunciation": "kruhsh (krʌʃ)",
+    "meaning": "korsunada"
+  },
+  {
+    "word": "Cut",
+    "pronunciation": "kuht (kʌt)",
+    "meaning": "Putul"
+  },
+  {
+    "word": "Daybreak",
+    "pronunciation": "dey-breyk (ˈdeɪˌbreɪk)",
+    "meaning": "ganing aldo"
+  },
+  {
+    "word": "Eclipse",
+    "pronunciation": "ih-klips (ɪˈklɪps)",
+    "meaning": "lawu"
+  },
+  {
+    "word": "Fate",
+    "pronunciation": "feyt (feɪt)",
+    "meaning": "kalma"
+  },
+  {
+    "word": "Firmness",
+    "pronunciation": "firm-ness (ˈfɝːm.nəs)",
+    "meaning": "Tibe"
+  },
+  {
+    "word": "Forever",
+    "pronunciation": "for-ev-er (fɔːrˈɛ.vɚ)",
+    "meaning": "Alanganga"
+  },
+  {
+    "word": "Forgiveness",
+    "pronunciation": "for-giv-nuhs (fɚˈɡɪv.nəs)",
+    "meaning": "Upaya"
+  },
+  {
+    "word": "Friend",
+    "pronunciation": "frend (frɛnd)",
+    "meaning": "Kaluguran"
+  },
+  {
+    "word": "Funny",
+    "pronunciation": "fuh-nee (ˈfʌ.ni)",
+    "meaning": "Tula"
+  },
+  {
+    "word": "Genuine",
+    "pronunciation": "jen-yoo-in (ˈdʒɛn.ju.ɪn)",
+    "meaning": "Tune"
+  },
+  {
+    "word": "Greedy",
+    "pronunciation": "gree-dee (ˈɡriː.di)",
+    "meaning": "lamaran"
+  },
+  {
+    "word": "Home",
+    "pronunciation": "hohm (hoʊm)",
+    "meaning": "Bale"
+  },
+  {
+    "word": "Hungry",
+    "pronunciation": "huhng-gree (ˈhʌŋ.ɡri)",
+    "meaning": "maranup"
+  },
+  {
+    "word": "Invite",
+    "pronunciation": "in-vahyt (ɪnˈvaɪt)",
+    "meaning": "Agkat"
+  },
+  {
+    "word": "Key",
+    "pronunciation": "kee (ki)",
+    "meaning": "susi"
+  },
+  {
+    "word": "Kiss",
+    "pronunciation": "kis (kɪs)",
+    "meaning": "Uma"
+  },
+  {
+    "word": "Kneel",
+    "pronunciation": "neel (niːl)",
+    "meaning": "Siklod"
+  },
+  {
+    "word": "Life",
+    "pronunciation": "lahyf (laɪf)",
+    "meaning": "Biye"
+  },
+  {
+    "word": "Like",
+    "pronunciation": "lahyk (laɪk)",
+    "meaning": "kaburi"
+  },
+  {
+    "word": "Luck",
+    "pronunciation": "luhk (lʌk)",
+    "meaning": "suerti"
+  },
+  {
+    "word": "Lucky",
+    "pronunciation": "luh-kee (ˈlʌ.ki)",
+    "meaning": "Suerti"
+  },
+  {
+    "word": "Matchbox",
+    "pronunciation": "mach-boks (ˈmætʃˌbɑːks)",
+    "meaning": "kasapego"
+  },
+  {
+    "word": "Meat",
+    "pronunciation": "meet (miːt)",
+    "meaning": "karni"
+  },
+  {
+    "word": "Mercy",
+    "pronunciation": "mur-see (ˈmɝː.si)",
+    "meaning": "Upaya"
+  },
+  {
+    "word": "Municipality",
+    "pronunciation": "myoo-ni-si-pa-luh-tee (mjuːˌnɪ.səˈpæ.lə.ti)",
+    "meaning": "balen"
+  },
+  {
+    "word": "Neighbor",
+    "pronunciation": "ney-ber (ˈneɪ.bɚ)",
+    "meaning": "Kasiping bale"
+  },
+  {
+    "word": "Nice",
+    "pronunciation": "nahys (naɪs)",
+    "meaning": "Santing"
+  },
+  {
+    "word": "Noodles",
+    "pronunciation": "noo-dlz (ˈnuː.dəlz)",
+    "meaning": "pansit"
+  },
+  {
+    "word": "Not",
+    "pronunciation": "nawt (nɑt)",
+    "meaning": "ali"
+  },
+  {
+    "word": "Person",
+    "pronunciation": "per-suhn (ˈpɝː.sən)",
+    "meaning": "Tau"
+  },
+  {
+    "word": "Pitiful",
+    "pronunciation": "pi-ti-fuhl (ˈpɪ.tɪ.fəl)",
+    "meaning": "makalunus"
+  },
+  {
+    "word": "Pitu",
+    "pronunciation": "pee-too (ˈpiː.tu)",
+    "meaning": "seven"
+  },
+  {
+    "word": "Pleasing",
+    "pronunciation": "plee-zing (ˈpliː.zɪŋ)",
+    "meaning": "Santing"
+  },
+  {
+    "word": "Power",
+    "pronunciation": "pou-er (ˈpaʊ.ɚ)",
+    "meaning": "upaya"
+  },
+  {
+    "word": "Rat",
+    "pronunciation": "rat (ræt)",
+    "meaning": "dagis"
+  },
+  {
+    "word": "Relationship",
+    "pronunciation": "ri-lay-shun-ship (rɪˈleɪ.ʃən.ʃɪp)",
+    "meaning": "Pamikyabe"
+  },
+  {
+    "word": "Remember",
+    "pronunciation": "ri-mem-ber (rɪˈmɛm.bɚ)",
+    "meaning": "Ganakan"
+  },
+  {
+    "word": "Road",
+    "pronunciation": "rohd (roʊd)",
+    "meaning": "dalan"
+  },
+  {
+    "word": "Said",
+    "pronunciation": "sed (sɛd)",
+    "meaning": "kanu"
+  },
+  {
+    "word": "Should",
+    "pronunciation": "shood (ʃʊd)",
+    "meaning": "dápat"
+  },
+  {
+    "word": "Sleep",
+    "pronunciation": "sleep (sliːp)",
+    "meaning": "matudtud"
+  },
+  {
+    "word": "Smile",
+    "pronunciation": "smyl (smaɪl)",
+    "meaning": "Timan"
+  },
+  {
+    "word": "Smiling",
+    "pronunciation": "smy-ling (ˈsmaɪ.lɪŋ)",
+    "meaning": "timantiman yan"
+  },
+  {
+    "word": "Sourness",
+    "pronunciation": "sowr-ness (ˈsaʊɚ.nəs)",
+    "meaning": "aslam"
+  },
+  {
+    "word": "Speech",
+    "pronunciation": "speech (spiːtʃ)",
+    "meaning": "Amanu"
+  },
+  {
+    "word": "Storm",
+    "pronunciation": "stawrm (stɔrm)",
+    "meaning": "bagyu"
+  },
+  {
+    "word": "Strength",
+    "pronunciation": "strengkth (strɛŋkθ)",
+    "meaning": "Tagatg"
+  },
+  {
+    "word": "Sturdy",
+    "pronunciation": "stur-dee (ˈstɝː.di)",
+    "meaning": "Tibe"
+  },
+  {
+    "word": "These",
+    "pronunciation": "theez (ðiːz)",
+    "meaning": "deni"
+  },
+  {
+    "word": "Thoughtful",
+    "pronunciation": "thawt-fuhl (ˈθɔːt.fəl)",
+    "meaning": "Ganaka"
+  },
+  {
+    "word": "Tonight",
+    "pronunciation": "tuh-nahyt (təˈnaɪt)",
+    "meaning": "ngening bengi"
+  },
+  {
+    "word": "Townmate",
+    "pronunciation": "town-meyt (ˈtaʊn.meɪt)",
+    "meaning": "Kabalen"
+  },
+  {
+    "word": "Troubled",
+    "pronunciation": "truh-buhld (ˈtrʌ.bəld)",
+    "meaning": "Pigaganakan"
+  },
+  {
+    "word": "Vacation",
+    "pronunciation": "vey-kay-shuhn (veɪˈkeɪ.ʃən)",
+    "meaning": "bakasyun"
+  },
+  {
+    "word": "Voice",
+    "pronunciation": "voys (vɔɪs)",
+    "meaning": "siuala"
+  },
+  {
+    "word": "Who",
+    "pronunciation": "hoo (hu)",
+    "meaning": "ninu"
+  },
+  {
+    "word": "Word",
+    "pronunciation": "wɝd (wɝd)",
+    "meaning": "Amanu"
+  }
+]

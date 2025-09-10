@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "255546479584",
+    "firebase_url": "https://kapamtalk-3b1f0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kapamtalk-3b1f0",
+    "storage_bucket": "kapamtalk-3b1f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255546479584:android:127906ace5c4780a4bd185",
+        "android_client_info": {
+          "package_name": "com.translator.kapamtalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoaTYU5XiNPnDbDg5h2zy-HdBcx9IhBAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
